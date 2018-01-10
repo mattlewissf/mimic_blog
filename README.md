@@ -1,12 +1,12 @@
 ## Predicting 30 Day Readmission from the MIMIC-III Dataset
 
-This project is built around a model to predict 3--day urgent and emergency care readmissions from hospital discharges. We're using [MIMIC-III](mimic.physionet.org), an open-source, anonymized dataset that contains records for more than 40,000 patients who were treated over a period of ten years. We'll be using primarily Python and commonly-used libraries for our model. We'll be updating our code and results as we go. 
+This project works to predict 30-day urgent and emergency care readmissions from hospital discharges. I'm using [MIMIC-III](mimic.physionet.org), an open-source, anonymized dataset that contains records for more than 40,000 patients who were treated over a period of ten years.
 
 You can take a look at the project code here - [MIMIC Project Code](https://github.com/mattlewissf/mimic)
 
-Here's a report of the project with our results (updated 5/2) - [MIMIC Project Report](https://github.com/mattlewissf/mimic_blog/blob/master/0%20-%20Project%20Report.ipynb)
+Here's a report of the project with results (updated 5/2) - [MIMIC Project Report](https://github.com/mattlewissf/mimic_blog/blob/master/0%20-%20Project%20Report.ipynb)
 
-And here's a Table of Contents for our deeper dive discussions into what we did in building our model. Some of these pages will change over time. 
+And here's a Table of Contents for our deeper dive discussions into how I built this model model. Some of these pages will change over time. 
 - [1 - Getting Started](https://github.com/mattlewissf/mimic_blog/blob/master/1%20-%20Getting%20Started.ipynb) 
 - [2 - Preprocessing Data](https://github.com/mattlewissf/mimic_blog/blob/master/2%20-%20Preprocessing%20Data.ipynb)
 - [3 - Extracting Basic Features](https://github.com/mattlewissf/mimic_blog/blob/master/3%20-%20Basic%20Features.ipynb) 
